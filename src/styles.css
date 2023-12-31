@@ -1,0 +1,74 @@
+body {
+        background-color: #f5f0fe;
+      }
+      h1 {
+        color: #885df1;
+        font-size: 48px;
+        text-decoration: underline;
+        font-weight: 100;
+        text-align: center;
+      }
+
+      h2 {
+        color: #272044;
+        text-align: center;
+      }
+
+      h5 {
+        text-align: center;
+      }
+
+      .highlight {
+        color: #885df1;
+      }
+
+      button {
+        color: white;
+        background-color: #885df1;
+        display: block;
+        margin: 0 auto;
+        padding: 20px;
+        border: 1px solid #885df1;
+        border-radius: 25px;
+        box-shadow: 5px 5px #e1e1e1;
+      }
+
+      button:hover {
+        background-color: white;
+        color: #885df1;
+        transition: all 400ms ease-in-out;
+        cursor: pointer;
+      }
+
+      ul {
+        list-style: none;
+        padding: 0px;
+        text-align: center;
+      }
+
+      li {
+        display: inline;
+        margin: 5px 15px;
+      }
+
+      a {
+        text-decoration: none;
+        font-weight: 200;
+      }
+
+      img {
+        display: block;
+        margin: 0 auto;
+      }
+
+      .courses {
+        color: red;
+      }
+
+      .stories {
+        color: green;
+      }
+
+      .coders {
+        color: blue;
+      }
